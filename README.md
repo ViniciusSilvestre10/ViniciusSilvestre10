@@ -110,7 +110,7 @@ Ao longo da minha trajetória acadêmica, participei de importantes experiência
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ViniciusSilvestre10&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=ViniciusSilvestre10&show_icons=true&theme=tokyonight&include_all_commits=true"
     height="180"
   />
   <img 
@@ -118,3 +118,4 @@ Ao longo da minha trajetória acadêmica, participei de importantes experiência
     height="180"
   />
 </p>
+
