@@ -108,20 +108,13 @@ Ao longo da minha trajetória acadêmica, participei de importantes experiência
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ViniciusSilvestre10&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ViniciusSilvestre10&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    height="180"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSilvestre10&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSilvestre10&layout=compact&theme=tokyonight&langs_count=9"
+    height="180"
   />
-
 </p>
